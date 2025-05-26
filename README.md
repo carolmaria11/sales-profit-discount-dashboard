@@ -38,3 +38,4 @@ This interactive dashboard provides a comprehensive analysis of sales, profit, a
 📁 Sales-Profit-Discount-Dashboard
 ├── 📄 Dashboard Screenshots (Page 1 & 2)
 ├── 📄 README.md
+└── 📁 Power BI (.pbix) File
